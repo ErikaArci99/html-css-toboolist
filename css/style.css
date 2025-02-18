@@ -2,6 +2,7 @@
     padding: 0%;
     margin: 0%;
     box-sizing: border-box;
+    font-family: "MHei PRC Medium";
 }
 
 .inline-block{
@@ -121,3 +122,4 @@ h3{
 
 /* &#10003 checkmark */
 /* &#10005 crossmark */
+
