@@ -65,22 +65,59 @@ h3{
 
 .circle{
     border-radius: 50%;
-    border-width: 2px;
     font-size: 15px;
+    width: 20px;
+    height: 20px;
+    text-align: center;
 }
 
 .green{
     border: solid rgb(25, 172, 25);
-    color: rgb(25, 172, 25); 
+    color: rgb(25, 172, 25);
+    border-width: 1px;
 }
 
 .red{
     border: solid rgb(180, 17, 17);
+    border-width: 1px;
     color: rgb(180, 17, 17);
 }
 
-p{
-    
+.small-black-text{
+    margin: 10px 5px 0px 8px;
+    font-size: 20px;
 }
+
+.button{
+    color: white;
+    padding: 6px 10px;
+    border-radius: 20px;
+    margin-right: 2px;
+}
+
+.blue-button{
+    background-color: #3DAFED;
+}
+
+.purple-button{
+    background-color: #9973DF;
+}
+
+.green-button{
+    background-color: #68C2AA;
+}
+
+.orange-button{
+    background-color: #EBA137;
+}
+
+.pink-button{
+    background-color: #D1699C;
+}
+
+.lime-button{
+    background-color: #AFC81F;
+}
+
 /* &#10003 checkmark */
 /* &#10005 crossmark */
